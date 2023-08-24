@@ -4,6 +4,7 @@ let rateMessage = document.querySelector(".rating p");
 let firstState = document.querySelector(".feedback");
 let secondState = document.querySelector(".secondState");
 let btn = document.querySelector("button");
+let checkWarning = false;
 for(let i = 0 ; i < listItems.length ; i++){
       listItems[i].classList.add("star")
       listItems[i].parentElement.classList.add("circle");
@@ -40,10 +41,11 @@ document.forms[0].addEventListener("submit",(e) => {
     firstState.style.display = "none";
     secondState.style.display = "block"
     }
-    else{
+    else if (rateMessage.textContent==="You selected ... out of 5" && !checkWarning){
     let warning = document.createElement("p");
     warning.textContent = ("Please choose a number");
     warning.style.cssText = "color:red;font-size:10px !important;#f00;text-align:center";
     btn.before(warning)
+    checkWarning = true;
     }
 })
