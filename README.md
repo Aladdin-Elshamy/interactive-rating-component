@@ -43,12 +43,13 @@ Users should be able to:
 - CSS animation
 - CSS flexbox
 - Mobile-first workflow
+- Javascript
 
 
 ## Author
 
 - Frontend Mentor - [@Aladdin-Elshamy](https://www.frontendmentor.io/profile/Aladdin-Elshamy)
-- Twitter - [@yourusername](https://twitter.com/AladdinElshamy)
+- Twitter - [@AladdinElshamy](https://twitter.com/AladdinElshamy)
 
 
 
