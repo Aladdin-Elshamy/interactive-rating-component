@@ -27,16 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/screenshot.jpg)
-![](./screenshots/screenshot2.jpg)
-![](./screenshots/screenshot3.jpg)
-
+![](./design/desktop-preview.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Aladdin-Elshamy/interactive-rating-component)
+- Live Site URL: (https://aladdin-elshamy.github.io/interactive-rating-component/)
 
 ## My process
 
