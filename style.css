@@ -21,7 +21,7 @@ body{
 
 /* Global rules end */
 
-.attribution { font-size: 11px; text-align: center; color: #fff; margin-top:3px;
+.attribution { font-size: 11px; text-align: center; color: #fff; margin-top: 2px;
     /*position: absolute;
     right: 0; left: 0; bottom: 0;*/}
 .attribution a { color: hsl(228, 45%, 44%); }
