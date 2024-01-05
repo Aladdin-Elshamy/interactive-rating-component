@@ -160,5 +160,19 @@ button:hover{
       top:10%;
     }
 }
+@media (orientation:landscape) and (max-width:1023px){
 
+    .secondState{
+        padding-block:5px ;
+    }
+    .secondState .title h1{
+        margin-bottom: 5px;
+    }
+    .secondState .rating{
+        margin-bottom: 10px;
+    }
+    .secondState .rating img{
+        margin-block: 8px;    
+    }
+}
 /* Thank you state end */
